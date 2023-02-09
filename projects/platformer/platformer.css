@@ -3,7 +3,8 @@ body {
 }
 
 canvas {
-  background-color: lightgray;
+  background-color: rgb(187, 3, 3);
+  background: url(https://i.pinimg.com/originals/36/c5/06/36c506693e457e8ea71eb52576f812ff.jpg);
 }
 
 img {
